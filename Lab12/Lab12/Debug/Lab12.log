@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\Computer science\Lab12\Lab12\Source.cpp(81): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\Computer science\Lab12\Lab12\Source.cpp(82): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\Computer science\Lab12\Lab12\Source.cpp(93): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\Computer science\Lab12\Lab12\Source.cpp(97): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  Lab12.vcxproj -> D:\Computer science\Lab12\Debug\Lab12.exe
